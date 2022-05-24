@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Pierre (@akaPierre) and i'm 23 years old / Olá, sou Daniel Pierre (@akaPierre) e tenho 23 anos
+- 👋 Hi, I’m Daniel Pierre (@akaPierre) and i'm 24 years old / Olá, sou Daniel Pierre (@akaPierre) e tenho 24 anos
 - 👀 I’m interested in job opportunities / Estou interessado em oportunidades de trabalho
 - 🌱 I’m currently learning about web and software development / Atualmente estou aprendendo sobre desenvolvimento web e software
 - 💞️ I’m looking to collaborate on any company task and people / Procurando colaborar com quaisquer tarefas dentro da empresa e pessoas
