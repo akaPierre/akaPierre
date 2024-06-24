@@ -7,9 +7,9 @@ Full Stack Developer & Web Designer
 I've been coding for 5 years.. and loving it since day one.. Coding right now actually !
 
 *   🌍  I'm based in Sao Paulo, Brazil
-*   🖥️  See my portfolio at [Daniel Pierre's Portfolio](http://danipierre.rf.gd/)
+*   🖥️  See my portfolio at [Daniel Pierre's Portfolio]([http://danipierre.rf.gd/](https://pierre-portfolio-self.vercel.app/))
 *   ✉️  You can contact me at [pierre.dev77gmail.com](mailto:pierre.dev77gmail.com)
-*   🚀  I'm currently working on [PiChat](http://github.com/akaPierre/pichat)
+*   🚀  I'm currently mastering JavaScript
 *   🧠  I'm learning Bots, AI, Java and Next.JS
 *   🤝  I'm open to collaborating on AI Projects, Portfolios Development
 *   ⚡  My second passion is Law stuff !
