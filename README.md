@@ -7,7 +7,7 @@ Full Stack Developer & Web Designer
 I've been coding for 5 years.. and loving it since day one.. Coding right now actually !
 
 *   🌍  I'm based in Sao Paulo, Brazil
-*   🖥️  See my portfolio at [Daniel Pierre's Portfolio](https://pierre-portfolio-self.vercel.app/)
+*   🖥️  See my portfolio at [Daniel Pierre's Portfolio](https://www.danielpierre.tech/)
 *   ✉️  You can contact me at [pierre.dev77gmail.com](mailto:pierre.dev77gmail.com)
 *   🚀  I'm currently mastering JavaScript
 *   🧠  I'm learning Bots, AI, Java and Next.JS
