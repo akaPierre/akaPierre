@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer & Web Designer
 -----------------------------------
 
-I've been coding for 5 years.. and loving it since day one.. Coding right now actually !
+I've been coding for 6 years.. and loving it since day one.. Coding right now actually !
 
 *   🌍  I'm based in Sao Paulo, Brazil
 *   🖥️  See my portfolio at [Daniel Pierre's Portfolio](https://www.danielpierre.tech/)
 *   ✉️  You can contact me at [pierre.dev77gmail.com](mailto:pierre.dev77gmail.com)
-*   🚀  I'm currently mastering JavaScript
-*   🧠  I'm learning Bots, AI, Java and Next.JS
-*   🤝  I'm open to collaborating on AI Projects, Portfolios Development
+*   🚀  I'm currently mastering Java
+*   🧠  I'm learning AI, JavaFX and SecOps
+*   🤝  I'm open to collaborating on AI Projects, Software Development
 *   ⚡  My second passion is Law stuff !
 
 ### Skills 
